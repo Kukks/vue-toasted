@@ -1,11 +1,11 @@
 {
-  "name": "vue-toasted",
+  "name": "vue-toasted-fork",
   "description": "Responsive Touch Compatible Toast plugin for VueJS 2+",
   "version": "1.1.25",
   "author": "Shakeeb Sadikeen <shakee.zats@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakee93/vue-toasted.git"
+    "url": "https://github.com/kukks/vue-toasted.git"
   },
   "main": "./dist/vue-toasted.min.js",
   "types": "./types/index.d.ts",
